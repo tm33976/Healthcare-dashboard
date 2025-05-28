@@ -7,6 +7,8 @@ A modern, interactive healthcare dashboard built with React, Next.js, and TypeSc
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38B2AC.svg)
 
+▶️ Live Demo - https://healthcare-dashboard-lovat.vercel.app/
+
 ## 🌟 Features
 
 ### 📅 Interactive Appointment Management

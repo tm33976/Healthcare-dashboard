@@ -46,7 +46,7 @@ A modern, interactive healthcare dashboard built with React, Next.js, and TypeSc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/healthcare-dashboard.git
+   https://github.com/tm33976/Healthcare-dashboard.git
    cd healthcare-dashboard
    ```
 
